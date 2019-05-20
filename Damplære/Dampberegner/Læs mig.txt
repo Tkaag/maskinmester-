@@ -1,0 +1,2 @@
+Programmet er kun testet med Microsoft Excel 2010
+Når regnearket er startet op, tryk "Aktiver indhold" i toppen af skærmen
